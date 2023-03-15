@@ -198,6 +198,7 @@ body {
     font-family: "tesla",'Russo One', sans-serif;
     text-shadow: rgb(240 230 116) 2px 2px 25px;
     text-align: center;
+    letter-spacing: 8px;
 }
 body {
     background-color: #0c0c0c;
