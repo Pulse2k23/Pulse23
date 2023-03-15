@@ -28,6 +28,7 @@
 } */
 @import url('https://fonts.googleapis.com/css2?family=Fragment+Mono&family=Poppins:wght@300&display=swap');
   @import url('https://fonts.cdnfonts.com/css/tesla');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */html {
     font-family: Poppins;
     -ms-text-size-adjust: 100%;
@@ -194,7 +195,7 @@ body {
     -webkit-tap-highlight-color: #FFF498;
 }
 #pulse{
-    font-family: "tesla";
+    font-family: "tesla",'Russo One', sans-serif;
     text-shadow: rgb(240 230 116) 2px 2px 25px;
     text-align: center;
 }
