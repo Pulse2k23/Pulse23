@@ -174,13 +174,16 @@ td, th {
     padding: 0;
 }
 ::-moz-selection {
-    background: #FFF498;
+    background: #0e4091;
 }
 ::selection {
-    background: #FFF498;
+    background: #0e4091;
 }
 ::-moz-selection {
-    background: #FFF498;
+    background: #0e4091;
+}
+img::-moz-selection {
+    background: transparent;
 }
 img::-moz-selection {
     background: transparent;
